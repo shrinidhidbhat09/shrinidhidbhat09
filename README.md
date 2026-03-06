@@ -25,26 +25,16 @@ Sometimes it means debugging why something **should work but doesn't.**
 Right now I'm exploring **AWS, scalable backend design, and system architecture.**
 
 ---
-
 ## ⚙️ Technologies I Work With
 
-Languages  
-`Java` `Python` `C`
-
-Backend  
-`Django` `Flask` `REST APIs`
-
-Data  
-`PostgreSQL` `Firebase`
-
-Computer Vision  
-`MediaPipe` `OpenCV`
-
-Tools  
-`Git` `GitHub` `VS Code`
-
-Architecture Interests  
-`System Design` `Clean Architecture` `Service-Based Systems`
+| Category | Technologies |
+|--------|-------------|
+| **Languages** | `Java` `Python` `C` |
+| **Backend** | `Django` `Flask` `REST APIs` |
+| **Data** | `PostgreSQL` `Firebase` |
+| **Computer Vision** | `MediaPipe` `OpenCV` |
+| **Tools** | `Git` `GitHub` `VS Code` |
+| **Architecture Interests** | `System Design` `Clean Architecture` `Service-Based Systems` |
 
 ---
 
@@ -65,7 +55,7 @@ Tech stack included **Django, PostgreSQL and Agora**.
 
 ### BlinkEasy
 
-A small computer vision service that detects **blink rate from video input**.
+A  computer vision service that detects **blink rate from live streams**.
 
 The idea was simple:
 
@@ -92,19 +82,7 @@ The focus here was **clean state handling and structured data flow.**
 
 ---
 
-## 🧪 Experiments & Curiosity
 
-Sometimes I build things just to explore ideas.
-
-Examples include:
-
-- gesture recognition systems
-- prompt engineering experiments with LLMs
-- small AI-assisted applications
-
-I enjoy learning by **building small systems that teach big lessons.**
-
----
 
 ## 📊 GitHub Activity
 
