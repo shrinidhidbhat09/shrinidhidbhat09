@@ -96,9 +96,7 @@ The focus here was **clean state handling and structured data flow.**
 
 ## ✍️ Writing
 
-Sometimes I write about things I learn while building.
-
-You can read them here:  
+Sometimes I write about things I learn while building. You can read them here:  
 https://shrinidhibhat.substack.com/
 
 ---
@@ -108,8 +106,7 @@ https://shrinidhibhat.substack.com/
 LinkedIn  
 https://www.linkedin.com/in/shrinidhi-d-bhat-356200283
 
-Email  
-shrinidhibhat290@gmail.com
+
 
 ---
 
