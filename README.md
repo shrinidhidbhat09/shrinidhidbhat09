@@ -1,4 +1,4 @@
-# Hey, I'm Shrinidhi 👋
+# Hey, I'm Shrinidhi D Bhat 👋
 
 I like building systems that **do one thing well and scale when needed.**
 
@@ -93,6 +93,21 @@ The focus here was **clean state handling and structured data flow.**
 ![GitHub Streak](https://streak-stats.demolab.com?user=shrinidhidbhat09&theme=tokyonight)
 
 ---
+
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrinidhidbhat09&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
+
+---
+
+✨ *I enjoy building systems that stay simple externally but handle complexity internally.*
+
 
 ## ✍️ Writing
 
