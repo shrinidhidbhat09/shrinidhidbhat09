@@ -1,4 +1,22 @@
-# Hey, I'm Shrinidhi D Bhat 👋
+
+<img width="1428" height="480" alt="image" src="https://github.com/user-attachments/assets/0e4a608f-5548-42cd-8730-59063bf778ec" />
+
+
+
+### `Shrinidhi D Bhat` — Backend & Systems Engineer
+
+*Building things that stay simple on the surface and handle complexity underneath.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrinidhi-d-bhat-356200283)
+[![Substack](https://img.shields.io/badge/Writing-FF6719?style=flat-square&logo=substack&logoColor=white)](https://shrinidhibhat.substack.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-shrinidhidbhat09-181717?style=flat-square&logo=github)](https://github.com/shrinidhidbhat09)
+
+
+</div>
+
+---
+
+
 
 I like building systems that **do one thing well and scale when needed.**
 
