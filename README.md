@@ -102,13 +102,13 @@ The focus here was **clean state handling and structured data flow.**
 
 
 
-## 📊 GitHub Activity
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shrinidhidbhat09&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=shrinidhidbhat09&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shrinidhidbhat09&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrinidhidbhat09&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrinidhidbhat09&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shrinidhidbhat09&theme=tokyonight)
+---
+[![](https://komarev.com/ghpvc/?username=shrinidhidbhat09&color=0e75b6)](https://visitcount.itsvg.in)
 
 ---
 
