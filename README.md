@@ -58,6 +58,20 @@ Right now I'm exploring **AWS, scalable backend design, and system architecture.
 
 ## 🛠 Things I've Built
 
+### Federated Query Engine
+
+A system that enables **querying data across multiple databases (PostgreSQL and MongoDB)** using a unified interface.
+
+Interesting parts:
+- natural language to query conversion  
+- cross-database joins  
+- handling different data formats between SQL and NoSQL  
+- cloud deployment using EC2, S3, MongoDB Atlas and RDS  
+
+Tech stack included **Django, PostgreSQL, MongoDB, spaCy, AWS (EC2, S3, RDS) and MongoDB Atlas**.
+
+---
+
 ### Real-time Video Communication System
 
 A system that handles **live video calls between users**.
@@ -70,6 +84,7 @@ Interesting parts:
 Tech stack included **Django, PostgreSQL and Agora**.
 
 ---
+
 
 ### BlinkEasy
 
@@ -98,26 +113,13 @@ Users can:
 
 The focus here was **clean state handling and structured data flow.**
 
----
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shrinidhidbhat09&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=shrinidhidbhat09&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shrinidhidbhat09&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=shrinidhidbhat09&color=0e75b6)](https://visitcount.itsvg.in)
-
----
-
 
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrinidhidbhat09&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrinidhidbhat09&theme=tokyo-night&hide_border=true"/>
 </p>
+
 
 ---
 
