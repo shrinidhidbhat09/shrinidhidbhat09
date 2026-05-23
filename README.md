@@ -112,7 +112,13 @@ Users can:
 - manage preferences
 
 The focus here was **clean state handling and structured data flow.**
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrinidhidbhat09&show_icons=true&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=shrinidhidbhat09&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrinidhidbhat09&layout=compact&theme=tokyonight)
 
 ## 📈 Contribution Graph
 
